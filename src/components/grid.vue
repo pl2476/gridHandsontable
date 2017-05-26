@@ -54,6 +54,7 @@ export default {
       $('.handsontable thead th .relative').css('line-height','50px');
       // $('.handsontable thead th .relative').css('line-height':'10px','color':'red');
       $('.handsontable thead th').addClass('pl');
+      // 操作单个样式有用，但是操作两个样式没有用
     }
   }
 }
